@@ -25,7 +25,9 @@ FHE.fromExternal(externalEuint32, proof);
 ## 🚀 Installation
 
 git clone https://github.com/Pandapopartclub/zamaERC20.git
+
 cd zamaERC20
+
 npm install
 
 
@@ -34,6 +36,7 @@ npm install
 Create a `.env` file:
 
 SEPOLIA_RPC_URL=https://ethereum-sepolia-rpc.publicnode.com
+
 PRIVATE_KEY=your_private_key_here
 
 
